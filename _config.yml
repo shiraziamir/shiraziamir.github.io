@@ -4,6 +4,7 @@ twitter_username: cool_tshoot
 name: Amir Shirazi
 
 # Build settings
+timezone: Asia/Tehran
 markdown: kramdown
 
 #User specific content
