@@ -27,11 +27,11 @@ skills:
 
 #Work experience is required
 roles:
- - title: Devops Engineer
+ - title: Devops Specialist
    start: 2018
    end: Ongoing
    employer: Mofid Securites
-   description:  Devops and node.js  <a href="https://www.emofid.com" taget="_blank">Mofid Website</a>
+   description:  Devops and node.js 
  - title: Devops spcialist
    start: 2017
    end: 2018
@@ -48,6 +48,16 @@ roles:
    end: 2014
    employer: Redhat Inc.
    description: Washington, DC office. Part of platform engineers responsilbe for deploying Redhat solutions in US.
+ - title: Linux Engineer
+   start: 2007
+   end: 2013
+   employer: Howard University Hospital
+   description: Washington, DC office. Responsible for providing systems engineering, technical assistance, planning, advisory role, and other related supports to the IT team.
+ - title: Linux Engineer
+   start: 2003
+   end: 2005
+   employer: Afranet 
+   description: Linux Administrator afranet.com
 
 #Education is required
 education:
