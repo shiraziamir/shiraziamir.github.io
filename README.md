@@ -1,1 +1,0 @@
-# shiraziamir.github.io
