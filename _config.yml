@@ -1,0 +1,73 @@
+# Site settings
+title: Amir Shirazi
+twitter_username: @cool_tshoot
+name: Amir Shirazi
+
+# Build settings
+markdown: kramdown
+
+#User specific content
+#Links that will appear in the navbar
+primarylinks:
+ - title: GitHub
+   url: https://github.com/shiraziamir
+ - title: LinkedIn
+   url: https://www.linkedin.com/in/shiraziamir
+
+#Any buzzword skills you want to include
+skills:
+ - DevOps
+ - Typescript
+ - Node.js
+ - Machine learning
+
+#Blogfeed is optional - including this will add JS to call the feed and populate blog list
+#blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
+
+#Work experience is required
+roles:
+ - title: Devops/Node.js
+   start: 2018
+   end: Ongoing
+   employer: Mofid Securites
+   description:  Devops and node.js  <a href="https://www.emofid.com" taget="_blank">Mofid Website</a>
+ - title: Devops spcialist
+   start: 2017
+   end: 2018
+   employer: Digikala
+   description: Part of Devops team which migrated the company's website form MS/.net to Linux/php
+
+ - title: Devops Engineer
+   start: 2016
+   end: 2017
+   employer: Persiangig.com
+   description: Responsible for the company's infrastructure and devops tasks.
+ - title: Platform Consultant
+   start: 2013
+   end: 2014
+   employer: Redhat Inc.
+   description: Washington, DC office. Part of platform engineers responsilbe for deploying Redhat solutions in US.
+
+#Education is required
+education:
+ - level: Bachelor of Science (B.Sc.)
+   date: 2003
+   subject: Electronics Engineer
+   school: University of Razi, Kermanshah
+
+
+#List of interesting Github repo/projects to include - optional
+#github:
+# - robhinds/robhinds.github.io
+#Stackoverflow flair is optional
+#stackoverflow:
+#   profileurl: http://stackoverflow.com/users/258813/rhinds
+#   flairimageurl: http://stackoverflow.com/users/flair/258813.png
+
+intro: |
+TODO
+
+#An additional info freetext section is optional at the bottom of the page - can be text or HTML
+additionalinfo: |
+   <strong>Node.js</strong>: TODO
+   <strong>Devops</strong>: TODO
