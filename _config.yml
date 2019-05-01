@@ -69,6 +69,7 @@ education:
 #List of interesting Github repo/projects to include - optional
 github:
  - shiraziamir/shiraziamir.github.io
+ - shiraziamir/projects
 #stackoverflow:
 #   profileurl: http://stackoverflow.com/users/258813/rhinds
 #   flairimageurl: http://stackoverflow.com/users/flair/258813.png
